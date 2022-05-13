@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.eot');
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.woff2') format('woff2'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.woff') format('woff'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.ttf') format('truetype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.svg#BrandonGrotesque-Regular') format('svg');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.eot');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.eot?#iefix') format('embedded-opentype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.woff2') format('woff2'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.woff') format('woff'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.ttf') format('truetype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Regular.svg#BrandonGrotesque-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.eot');
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.eot?#iefix') format('embedded-opentype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.woff2') format('woff2'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.woff') format('woff'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.ttf') format('truetype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.svg#BrandonGrotesque-Medium') format('svg');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.eot');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.eot?#iefix') format('embedded-opentype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.woff2') format('woff2'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.woff') format('woff'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.ttf') format('truetype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Medium.svg#BrandonGrotesque-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.eot');
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.woff2') format('woff2'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.woff') format('woff'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.ttf') format('truetype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.eot');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.woff2') format('woff2'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.woff') format('woff'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.ttf') format('truetype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -39,12 +39,12 @@
 
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.eot');
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.eot?#iefix') format('embedded-opentype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.woff2') format('woff2'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.woff') format('woff'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.ttf') format('truetype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.svg#BrandonGrotesque-Thin') format('svg');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.eot');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.eot?#iefix') format('embedded-opentype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.woff2') format('woff2'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.woff') format('woff'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.ttf') format('truetype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Thin.svg#BrandonGrotesque-Thin') format('svg');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -52,12 +52,12 @@
 
 @font-face {
     font-family: 'Brandon Grotesque';
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.eot');
-    src: url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.eot?#iefix') format('embedded-opentype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.woff2') format('woff2'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.woff') format('woff'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.ttf') format('truetype'),
-        url('https://tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.svg#BrandonGrotesque-Light') format('svg');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.eot');
+    src: url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.eot?#iefix') format('embedded-opentype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.woff2') format('woff2'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.woff') format('woff'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.ttf') format('truetype'),
+        url('//tubular-entremet-8b5695.netlify.app/BrandonGrotesque-Light.svg#BrandonGrotesque-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
